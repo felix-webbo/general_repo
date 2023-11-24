@@ -1,0 +1,9 @@
+.horizontal-line{
+    margin: 2rem 2% 2rem;
+    background-color: var(--color-primary);
+    height: 0.5rem;
+    width: auto;
+    box-shadow: 3px 5px 5px 3px var(--color-light);
+    border-radius: 5px;
+
+}
